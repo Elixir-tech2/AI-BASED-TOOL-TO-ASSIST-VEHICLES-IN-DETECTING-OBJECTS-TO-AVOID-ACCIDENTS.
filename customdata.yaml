@@ -1,0 +1,12 @@
+
+
+train: ../datasetpro/images/train  # train images (relative to 'path') 128 images
+val: ../datasetpro/images/val # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 03 # number of classes
+names: ['sand','rocks','pits']  # class names
+
+
+
